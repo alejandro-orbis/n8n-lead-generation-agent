@@ -1,5 +1,12 @@
-# n8n-lead-generation-agent
-Autonomous B2B lead generation agent using n8n, Apify, and Firecrawl. Extracts business data, emails, and social media from Google Maps.
+# 🤖 Autonomous B2B Lead Generation Agent (n8n + Apify + AI)
+
+Automation system that extracts, enriches, and organizes business leads from Google Maps. Perfect for sales and marketing teams who need qualified leads 24/7.
+
+---
+
+## 📊 System Architecture
+
+[Schedule Trigger] → [Google Sheets (Read Queries)] → [Apify (Google Places Scraping)] → [Firecrawl (Web Scraping)] → [JavaScript (AI-Powered Extraction)] → [Google Sheets (Save Results)]
 
 ---
 
