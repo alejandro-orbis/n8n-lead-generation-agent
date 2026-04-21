@@ -58,17 +58,11 @@ A marketing agency needs 500 qualified leads for a campaign. Instead of manual s
 
 ---
 
-## 📸 Screenshots
-
-*[Add images of the workflow and results here]*
-
----
-
 ## 👨‍💻 Author
 
 **Alejandro Peralta**  
 Process Automation Specialist  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:alejandro@orbisautomations.com)
+[GitHub](https://github.com/alejandro-orbis) | [LinkedIn](https://linkedin.com/in/alejandro-orbis) | [Email](mailto:alejandro@orbisautomations.com)
 
 ---
 
