@@ -1,5 +1,9 @@
 # 🤖 Agente Autónomo de Generación de Leads B2B (n8n + Apify + IA)
 
+[![n8n](https://img.shields.io/badge/n8n-Automation-FF4D4D?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
+[![Status](https://img.shields.io/badge/Status-Production_Ready-22c55e?style=flat-square)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
+
 Sistema de automatización que extrae, enriquece y organiza clientes potenciales desde Google Maps. Ideal para equipos de ventas y marketing que necesitan leads cualificados 24/7.
 
 ---
